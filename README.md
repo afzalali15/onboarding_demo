@@ -6,10 +6,10 @@
   <img src="flutter_getx_onboarding.png" alt="flutter onboarding screen with getx" title="Screenshot">
 </p>
 
-![YouTube Video Views](https://img.shields.io/youtube/views/neXfa4J752A?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/neXfa4J752A?label=Likes&style=social) <br>
+![YouTube Video Views](https://img.shields.io/youtube/views/8bO1_saEwjw?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/8bO1_saEwjw?label=Likes&style=social) <br>
 <img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />**Tutorial** 👇🏼👇🏼👇🏼<br>
-Flutter Design Tutorial | Minimal UI - Part 1<br>
-https://youtu.be/neXfa4J752A
+Flutter Onboarding tutorial with GetX || 30 mins coding challenge 👨🏻‍💻<br>
+https://youtu.be/8bO1_saEwjw
 
  If you like my work, support me to create more! 😎👍<br>
 <a href="https://www.buymeacoffee.com/afzalali15" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
